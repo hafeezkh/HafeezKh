@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafeez</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Fullstack-Internship Project](https://github.com/Hafeezkh/SysBank-Fullstack.git)
-
 - 🌱 I’m currently learning **Data Structures and Algorithms,System Design, Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hafeezkh](https://github.com/Hafeezkh)
